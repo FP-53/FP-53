@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FP-53
+- 👋 Hello, I’m FP-53
 - 👀 I’m interested in the programmation and the investigation of the new tecnologies 
 - 🌱 I’m currently learning about the new programation lenguages 
 - I'm a Superate! Colon's student
